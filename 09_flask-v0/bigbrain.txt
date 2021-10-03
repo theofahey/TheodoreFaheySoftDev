@@ -1,16 +1,23 @@
+Team Sartre
 Theodore Fahey, Sean Ging, Friedrich, Jordan Carter
 SoftDev
-K09 -- Simple Path to Greatness/ Flask/ Answering questions regarding our prior knowledge of the Structures that Flask Uses2021-10-02
+K09 -- Simple Path to Greatness/ Flask/ Answering questions regarding our prior knowledge of the Structures that Flask Uses
+2021-10-02
 
-Q0- The declaration of the Variable is clearly Python, but we have no idea where the __name__ comes from. It might be an argument but we aren't too sure.
+Q0-Where have you seen similar syntax in other langs?
+The declaration of the Variable is clearly Python, but we have no idea where the __name__ comes from. It might be an argument but we aren't too sure. In Java however, you have to declare the type of variable before initializing. Python determines the type based on the values given.
 
-Q1- Its used when locating different files based on the folders they are in. For example, Users/Library/StuySoftDev would be an example. With the slash indicating that the name to the right is part of the name to the left. Maybe the code is trying to find the location of __name__
+Q1-  What points of reference do you have for meaning of '/'?
+Its used when locating different files based on the folders they are in. For example, Users/Library/StuySoftDev would be an example. With the slash indicating that the name to the right is part of the name to the left. Maybe the code is trying to find the location of __name__
 
-Q2: We think it will print to the shell, in this case the terminal. We think that it will print the file address of __name__.
+Q2: Where will this print to? Q3: What will it print?
+We think it will print to the shell, in this case the terminal. We think that it will print the file address of __name__.
 
-Q3: No, it won't appear anywhere since nothing explicit is said of the return value. It will return it but not do anything with it. 
+Q3: Will this appear anywhere? How u know?
+No, it won't appear anywhere since nothing explicit is said of the return value. It will return it but not do anything with it. 
 
-Q4: In Java this indicates that run is a method of app but we don't know if this works the same way. 
+Q4: Where have you seen similar construcs in other languages?
+This is similar to what is seen in java because this indicates that run is a method of app. In java we would refer to a static method using this syntax for instance, object.add(). We think that in the same way, app is an (object) and "run" would be one of its methods.
 
 After Running:
 
