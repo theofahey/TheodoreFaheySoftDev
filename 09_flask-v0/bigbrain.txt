@@ -1,0 +1,17 @@
+Theodore Fahey, Sean Ging, Friedrich, Jordan Carter
+SoftDev
+K09 -- Simple Path to Greatness/ Flask/ Answering questions regarding our prior knowledge of the Structures that Flask Uses2021-10-02
+
+Q0- The declaration of the Variable is clearly Python, but we have no idea where the __name__ comes from. It might be an argument but we aren't too sure.
+
+Q1- Its used when locating different files based on the folders they are in. For example, Users/Library/StuySoftDev would be an example. With the slash indicating that the name to the right is part of the name to the left. Maybe the code is trying to find the location of __name__
+
+Q2: We think it will print to the shell, in this case the terminal. We think that it will print the file address of __name__.
+
+Q3: No, it won't appear anywhere since nothing explicit is said of the return value. It will return it but not do anything with it. 
+
+Q4: In Java this indicates that run is a method of app but we don't know if this works the same way. 
+
+After Running:
+
+We're really not sure what happened after running it didn't seem to do anything and. It gave us a warning about development servers and that debug mode was off. It also said that Flask was (lazy loading) and we were unsure what that meant
