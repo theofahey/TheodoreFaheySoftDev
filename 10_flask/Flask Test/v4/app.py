@@ -16,5 +16,5 @@ if __name__ == "__main__":  # true if this file NOT imported
     app.run()
     
  #Predictions: We predict that this file will run exactly as version 3 because the If statement is true. Debug mode will also be on.
- 
- 
+#Results:
+#The if statement makes it so that every time that we reload the page, the print statement runs again. So we think that every time the page detects it being opened it will print to the terminal. 
