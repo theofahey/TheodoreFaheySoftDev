@@ -8,7 +8,8 @@ Observations:
 
 - Creating a Session stores the username in a dictionary.
 - Sessions stores the username until page is refreshed or flask is shut off.
-- Was able to open new tabs, windows, close out of old ones, and the session still held the value of  username(Can see why cookies can be a huge cybersecurity problem)
+- Was able to open new tabs, windows, close out of old ones, and the session still held the value of username
+(Can see why cookies can be a huge cybersecurity problem)
 
 
 Questions :
