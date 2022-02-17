@@ -38,9 +38,7 @@ var drawDot = () => {
     console.log("drawDot invoked...");
     clear();
   // YOUR CODE HERE
-    ctx.beginPath();
-    ctx.arc(c.width/2, c.height/2, radius, 0, 360);
-    ctx.fill();
+
     if (growing){
 
 
@@ -55,6 +53,9 @@ var drawDot = () => {
       }
       radius--;
     }
+    ctx.beginPath();
+    ctx.arc(c.width/2, c.height/2, radius, 0, 360);
+    ctx.fill();
 
 
 
